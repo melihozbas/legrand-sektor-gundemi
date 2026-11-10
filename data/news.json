@@ -1,8 +1,68 @@
 {
-  "last_checked": "2026-11-09T08:37:27.834780+00:00",
-  "new_items": 39,
+  "last_checked": "2026-11-10T05:42:48.165645+00:00",
+  "new_items": 10,
   "errors": [],
   "items": [
+    {
+      "id": "7f7d78f86a447d14",
+      "title": "Dev açık sonrası bakanlar harekete geçti: Çinli şirketlere yatırım çağrısı - Notbir",
+      "category": "Veri Merkezleri",
+      "source": "Notbir",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhheHltcFh2aFk0a09QQ0swaHNOamNVbElUSnJRSzdFLTJyQ0pieTFvUlp2NkhtVXB6ckNNbWFvMF9yR3RWc1pZZWtINGNxSXNnbEdxRl8teTdidXR6U3hQa3BHdXFQOWhpVTRUV0syYUhxUFVIUVJYZXR0UzJtRnVYcDdpX2JVZlZwZ1o2cUxvcFp0S0tFbHBqOTVQQklnRTZ0MkpB?oc=5",
+      "published": "2026-11-10T04:25:35+00:00",
+      "summary": "Dev açık sonrası bakanlar harekete geçti: Çinli şirketlere yatırım çağrısı    Notbir",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "77316844ffbbdd4b",
+      "title": "Türk Telekom'dan COP31'de iki büyük hamle: Yeşil enerji yatırımı ve 5G akıllı liman - İstanbul Ticaret Gazetesi",
+      "category": "Veri Merkezleri",
+      "source": "İstanbul Ticaret Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT19VR2gyZ0Z0TDBXamFNbkZoVl95NzVuNGwyQllFbHVIWG55UkhSOFZLaVlFSHR3NlprT2tjVXpIeEdVd1FhbUZxTmQ1ZjN4bGl5ZnBuaWNLQmVDSW5UbXZFclN5djRfcjU2MkduTnprRUJJRXpLYkRMSi05dzdYcllJRzloQzhrYlNLTkItOFpzMXc5UUN3X0dZUl94WGRldm9Rbk5SajVyVkxoMTk0aVNlYzM3X3c?oc=5",
+      "published": "2026-11-09T14:49:55+00:00",
+      "summary": "Türk Telekom'dan COP31'de iki büyük hamle: Yeşil enerji yatırımı ve 5G akıllı liman    İstanbul Ticaret Gazetesi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "17e9408a4e09a0f9",
+      "title": "Yapay zekâ yarışı, altyapı darboğazlarını aşmak için veriliyor. - Vietnam.vn",
+      "category": "Veri Merkezleri",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMWnpLbEVSdDF1MWs4dElNV29QTnB5b0JZV2ZSSnBWUW1JSnpUWklvaTVJY2FuaDlIVl9SdmRFcktoYWdFTHFoeEJNNXotVlkzVy1mMEJCQ18tMkhaaFNZQjlRUXcwek9pYjRzTkxZaFNVUGFIaDQ0?oc=5",
+      "published": "2026-11-09T12:59:04+00:00",
+      "summary": "Yapay zekâ yarışı, altyapı darboğazlarını aşmak için veriliyor.    Vietnam.vn",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "15a56c90dbe75867",
+      "title": "İNDİRİM VAADİ FATURAYI ŞİŞİRİR Mİ? - BARTIN HALK GAZETESİ",
+      "category": "Meslek Odaları",
+      "source": "BARTIN HALK GAZETESİ",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUUM3MU0wdTZHVWQxNVpLazBISEtHUkZtVnptRDF0d3dUZlZBMk4zSnd4WFpyTmdXNjNvV2wtc1pFZ0s2bDF6dVZGNmxld2JXdl92d0hWRWI2VzNBNmlzTDc4a3pZdjVsUzEyNUpra1VXSXIwUVBTbVo4cU9jLXk1Nm5VQQ?oc=5",
+      "published": "2026-11-09T11:00:29+00:00",
+      "summary": "İNDİRİM VAADİ FATURAYI ŞİŞİRİR Mİ?    BARTIN HALK GAZETESİ",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "4b4cd16541f4a07b",
+      "title": "Elektrik faturasında indirim tuzağı: Faturanız yüzde 25 artabilir - YatırımX",
+      "category": "Meslek Odaları",
+      "source": "YatırımX",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjVkUXFKVWhfeFZMM2pxcTFPSmVfTEpVVXpYS1Y0QV9RY2tXcXY5akJjYnlfekMtZVVDRUhHc2Mwek9QWjd2NVpJeXZoVWJjNFpRcHFaNHZnNVV1ZjJtbVozQ09TTUlUeFVKZWFrOGhKVC1qbWxUY3lKTDBnQkFldVZNaW9HM21qRGRiMnZ1bC1qN2c4dUVhcE1abExzaXFfTTBtckE3bmZhQQ?oc=5",
+      "published": "2026-11-09T09:27:38+00:00",
+      "summary": "Elektrik faturasında indirim tuzağı: Faturanız yüzde 25 artabilir    YatırımX",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
     {
       "id": "010cec339cb80f7f",
       "title": "'Vatandaşın kendi elektriğini üretmesi kolaylaştırılmalı' - Ekonomi Gazetesi",
@@ -52,6 +112,18 @@
       "verified": false
     },
     {
+      "id": "88c48b5289ca01eb",
+      "title": "Bugünkü Resmî Gazete, 7 Kasım Resmî Gazete: Atamalar, Yönetmelikler ve EPDK Kararı - Gazeteniz Olsun",
+      "category": "Enerji",
+      "source": "Gazeteniz Olsun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmg1eGtzeFVxRUktRUxqZmE2MS1NTmdDdmlSckV2dkE2Rk9rUE9VbUtyNlJnREtTcEdIYjRtczl4YjFnM09wOWM5ZjljSkpBZGhiR3AxWG5hZk4zM1U2UGE3SHdsRVNtV0kyeG5qUFVjaTdqSFlfT1d4LWVLdkJtMjdwaGNnaG9obEdaRjF5eXZORS1kYnZkWTlyejhfcjhubkxOTXc0SDF0Ry1aOS00eGVMYTRnQQ?oc=5",
+      "published": "2026-11-07T17:19:10+00:00",
+      "summary": "Bugünkü Resmî Gazete, 7 Kasım Resmî Gazete: Atamalar, Yönetmelikler ve EPDK Kararı    Gazeteniz Olsun",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
       "id": "14e0abc4e69ab2b2",
       "title": "Türk teknoloji şirketinin küçük modüler reaktör projesi COP31'de vitrine çıkacak - Anadolu Ajansı",
       "category": "Veri Merkezleri",
@@ -76,6 +148,18 @@
       "verified": false
     },
     {
+      "id": "53acc1bafc58be54",
+      "title": "11 üniversiteye rektör ataması yapıldı - Samsun Cep Haber",
+      "category": "Enerji",
+      "source": "Samsun Cep Haber",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzJEQWN0OTVBUGdRQk9Xb205SlRxamFBWFhWLWhwejBrOXJJMG5oQ0liRjg5X1E1VW81WTRqdHUyOHJYNFpBZjFfMnhrS041Y29wNlhNY19vRVNTSkp5QlRETkVPanBnMllNYmFmS1J6WGVpMkJHTksxWUhlSXJDQy11OWpCaVhJQ3VzY3JwZmU1SVoyU1hUY2VRVQ?oc=5",
+      "published": "2026-11-07T07:37:10+00:00",
+      "summary": "11 üniversiteye rektör ataması yapıldı    Samsun Cep Haber",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
       "id": "8788253c59fb4812",
       "title": "Resmi Gazete'de bugün: 7 Kasım 2026 Resmi Gazete kararları - Kulis TV",
       "category": "Enerji",
@@ -95,6 +179,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEtqREZ4RWx1UFprNGVFU3NOa2lnQVJNcFF6NXBJbEEzVk1CVW1oV1VMWXc0ZmRLUkpfNXZSeGJQZnpGWWZLak5IQVJUYmtROWJVVU1wUm1mRVZ3ZXlOaXFlcXJFeDZ6OS1abk9sQmZyMFBUazl6dnUyeTZXNDcxQ2Z4dW56YThtZXZTaXgtWVYtU2R3bDZMRg?oc=5",
       "published": "2026-11-07T06:57:00+00:00",
       "summary": "Diyarbakır Elektrik Mühendisleri Odası:\"Tedarik Tarifesi Düşürülmelidir\"    Gazetedetay",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "684ab5012784e251",
+      "title": "7 Kasım 2026 Resmi Gazete kararları - Gazete Arena",
+      "category": "Enerji",
+      "source": "Gazete Arena",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tMnJJbWtsWkJ5SU01S3BUU1VzVklkak92Z2tYWl8tWldndkFIV0dmZlE5QXVWb0ZiVmFtX2dsWlRkOVhNM01hT0p1Rm9CZFVaOFZrQ3I2bWVLR3Y0b3RsX2VsZVVtRERwRUpNX3g2cTA?oc=5",
+      "published": "2026-11-06T23:25:00+00:00",
+      "summary": "7 Kasım 2026 Resmi Gazete kararları    Gazete Arena",
       "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
@@ -131,6 +227,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHRraEhvX3plODd6RWwxWnM2Y0RCcEtwbEhaRFZyNDJyV3NzUkgzZVVRRnRadTRCdGpnb0NXSmZUUGRTbk1SWEI0Z1dfWHhXRXY5MzVUdjdCaE96R2V5R1Fkc1dlZlhJSUg0dU53eUtxc3gyQ3RFTy1GcUhYY1FNcThyb3F5UjlWaXc?oc=5",
       "published": "2026-11-06T21:09:18+00:00",
       "summary": "7 Kasım 2026 Resmî Gazete yayımlandı! İşte tüm kararlar    Türkgün",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "ba87f4f274b8b0c4",
+      "title": "Teknoloji devlerinden yapay zekâya 700 milyar dolarlık yatırım - Yeni Alanya",
+      "category": "Veri Merkezleri",
+      "source": "Yeni Alanya",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTU9vS1Rnbld3alI3bW1TcEo1cExSNk1QS3lxSVg2QWFIZ0NYQU9ONnhaNl9EaDR2NlZqekZpaERsbktEUGNmMTJ3QXZpX0s3QW5adFR2WGxLUEZZaTFKdW14YnU5UGlzcmhuNVFIR0tBaUpsZC0zcnFxU1FUdEFxM1JPM1RSUUNkZXY1YTZ5Z2FsUQ?oc=5",
+      "published": "2026-11-06T10:17:00+00:00",
+      "summary": "Teknoloji devlerinden yapay zekâya 700 milyar dolarlık yatırım    Yeni Alanya",
       "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
@@ -423,6 +531,23 @@
       "published": "2026-10-28T13:07:38+00:00",
       "summary": "İhale Dergisi | İhale Haberleri | İhale Sonuçları | İhale Bülteni    Yatırımlar Dergisi",
       "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "2f1a0922f50c91f0",
+      "title": "Submer ve Aginode Türkiye dahil birçok pazarda ortak veri merkezi altyapısı kuracak - Ekonomim",
+      "category": "Veri Merkezleri",
+      "source": "Ekonomim",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakhKTzBtSUxxSms2SWdtZk9Wbl9ZNTl2S1QwUlk3enEyZFRzcnoyZmI0eG5Pd3JuYmZGb2hmMjRWdkZMZDA1MnZhMUdRWFBDMDFHbVhwRHZYYVdTVDIzTEVUTWpranVTQk5fRHItR3hUVGtrRWtWY2wxQmV6ZEpmdldmcjlpUWllMEFSSVc4M0NodzJoNjVZS2ZCY2hYbjV5dVYzOXFZQnZGVFNNWWVSSjl2UkdSdlNmZFJ1SkZodHFQU1NRdDJnb3UxUlF3eTRzeXRkWkwyNno2UQ?oc=5",
+      "published": "2026-10-28T07:00:00+00:00",
+      "summary": "Submer ve Aginode Türkiye dahil birçok pazarda ortak veri merkezi altyapısı kuracak    Ekonomim",
+      "products": [
+        {
+          "name": "Veri merkezi çözümleri",
+          "action": "Veri merkezi altyapı çözümleri için hedef kitle bilgilendirmesi değerlendirilebilir."
+        }
+      ],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
     },
