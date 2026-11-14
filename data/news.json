@@ -1,8 +1,20 @@
 {
-  "last_checked": "2026-11-13T05:48:24.440525+00:00",
-  "new_items": 8,
+  "last_checked": "2026-11-14T05:39:44.599555+00:00",
+  "new_items": 4,
   "errors": [],
   "items": [
+    {
+      "id": "2c58749ec6801414",
+      "title": "EPDK duyuru yaptı 'Son BAŞVURU tarihi 30 Kasım - Enerji Ekonomisi",
+      "category": "Enerji",
+      "source": "Enerji Ekonomisi",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUtWTG1yYmZ3SlMtVElMdzVvX2FhRjh2NHRyREVKSjVKNUlWSVdoSTBieEFvc2tBckVSWkY4aE8xb2Nfc1R1bkx2TDVrQ2JSSkRqb2FmUnZITEZxOS1pRkRmN3VDbXJlRWZ1WmlnSkFxOV9OTlpaYktUN19RbWh2bjRGVmJUWkgxMFB3?oc=5",
+      "published": "2026-11-13T07:25:00+00:00",
+      "summary": "EPDK duyuru yaptı 'Son BAŞVURU tarihi 30 Kasım    Enerji Ekonomisi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
     {
       "id": "c5f775c26259352b",
       "title": "İptal etmeyenler dikkat! Elektrik faturasınız cep yakabilir - Yozgat Haber - Yozgat Son Dakika Haberleri - İleri Gazetesi",
@@ -220,6 +232,23 @@
       "verified": false
     },
     {
+      "id": "4c4d8babe566d844",
+      "title": "Bakan Bayraktar: Mersin’de, Türkiye’nin en büyük veri merkezi hedefleniyor - Dünya Gazetesi",
+      "category": "Veri Merkezleri",
+      "source": "Dünya Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDRLaEk5Mk9FeUd3ejVsa1B5MWhITmJ6NFdTOU9Qa2ZaVDdWcVZ4dGFSZjFFMVVpVllNemF5MEFRNUhsYmVvcHNfWFptSjl2RnBNNEZqRi0tbGdWeFdlUDNWS25nVDNHMVhUWW9GRHpzTEVJRVY4OTVtQVQ2Rm54cnc5MEhEMVBqNkhBaGpKaVFyemgzUWtNYnBXd0pnZk1JMlFIUGpSYVg4aUZfRF9lQVltUHo?oc=5",
+      "published": "2026-11-09T21:00:00+00:00",
+      "summary": "Bakan Bayraktar: Mersin’de, Türkiye’nin en büyük veri merkezi hedefleniyor    Dünya Gazetesi",
+      "products": [
+        {
+          "name": "Veri merkezi çözümleri",
+          "action": "Veri merkezi altyapı çözümleri için hedef kitle bilgilendirmesi değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
       "id": "77316844ffbbdd4b",
       "title": "Türk Telekom'dan COP31'de iki büyük hamle: Yeşil enerji yatırımı ve 5G akıllı liman - İstanbul Ticaret Gazetesi",
       "category": "Veri Merkezleri",
@@ -400,6 +429,18 @@
       "verified": false
     },
     {
+      "id": "65e954b7ef1db685",
+      "title": "Resmi Gazete'de bugün: 7 Kasım 2026 Resmi Gazete kararları - Kulis TV",
+      "category": "Enerji",
+      "source": "Kulis TV",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3pyaEFsRnpaOHg0VUxMb09wYU9wZVhJakljbS1uRUlFazlxSnFpOHZhSXBkMy1ZMVRsSWZQMDFZWFhyeVR0a0JuM1pEdzczTUVHY1RJaTM2c3M0bFV4MGZtQVprTVV3S25lNmljZTNNUm9fZF9xSzFaaVhQU1VmNGhsX3BncWhMZHlyWS130gGbAUFVX3lxTE8zbTBKUXBlRkFuWTRpbC1oQ1Vpb1N2NWlPVGF0cTA1UjFHTm1feTlJY3dPMHZacGdNYy1JUEprcnhSblhzWGx5UjFwMTRIeGQ1Ri02OWFNcEtxcW5mbXlfMm9DSVlFQ1RMNUg3ODF1NGFyQnJtemhMQjJoblVvV3JnMUk4WEE4RjR5d3hubVVkZW5VY0ExZ01qYTU4?oc=5",
+      "published": "2026-11-07T07:00:34+00:00",
+      "summary": "Resmi Gazete'de bugün: 7 Kasım 2026 Resmi Gazete kararları    Kulis TV",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
       "id": "993eebf6cdc3b5fa",
       "title": "Diyarbakır Elektrik Mühendisleri Odası:\"Tedarik Tarifesi Düşürülmelidir\" - Gazetedetay",
       "category": "Meslek Odaları",
@@ -525,6 +566,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWll6VlVjSG5sUG80Wk03MkRSZk1RRGpQOVhtLTlDNjlJdUUtSU1VQm5vS1d4M3hOWnFSYW54czQyMTE0cTZjaFVuaWVkclZhWXhLZDBhYnV0c3FER0xkZmNXREFVWG1ZeGM5THVQQ01WN2M0dWxOQkY3Q0d4SzROWTJOS1BTSkVxU3fSAYwBQVVfeXFMT2UzYV9OWGcxX2tHX3FCcnFiYVdPSXppSzJnN1dCUFdFOXZFQmpmdS1KYk41TU1mc1Y1d3FibElqdTdNLVB1dnVVTHR2WWdnaVFWZks1ellaMjdIM2xla0QzdC1UQ3JyMzF3cTZ0eEpteEVhNVdXbFdBeGhXWldXYW92WFl1U3lEZHo5SzE?oc=5",
       "published": "2026-11-06T04:04:14+00:00",
       "summary": "500 milyar dolar yatırım 250 bin istihdam    Sabah",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "aa6ab1b3c7c127ff",
+      "title": "Bayraktar: Türkiye 2040'ta yüzde 36'lık bir elektrikleşmeye ulaşacak - Ekonomi Gazetesi",
+      "category": "Veri Merkezleri",
+      "source": "Ekonomi Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFh2M1p2cFVwS1ltT0c2SGFwSjBTMDIzbXBNcklLeFFTN29BWml6cVYtS3ZFUzZmbXVPYUxEM0dIcFUtRk1kSVZlSGRUOUxyWU50M1FMZU1NVWE0b2lDdUtuVUlkU2JaYWNxdXpFNzY4YkM1Z2l4M3JoZWZTR1d2TnIwN1ZENUhTVkd1VmRiakFWSFJXeVJIUWF2RGxybXlrcVUxaVBlN2llVnBZLTdnVlRDRzFidExwaDB3dA?oc=5",
+      "published": "2026-11-05T14:20:47+00:00",
+      "summary": "Bayraktar: Türkiye 2040'ta yüzde 36'lık bir elektrikleşmeye ulaşacak    Ekonomi Gazetesi",
       "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
