@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-11-15T05:42:51.260584+00:00",
-  "new_items": 5,
+  "last_checked": "2026-11-16T05:58:09.573844+00:00",
+  "new_items": 3,
   "errors": [],
   "items": [
     {
@@ -251,6 +251,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTzk3aDBsMnp5WVlETHVZNnJQNWF0UUFfRmFzZXlWLTJlR0NHSHozZVZmWjN4X2V1SEEzT3EyenZ5OTM5OENYT0NSN2phX3M3Y295ODFwM3AxeGhPUF9FOGJUbWxGUWEtS3ROUExOelFjZVloTjloNjF2T2g4UVo4enYzMTkwZVMyU3gzaGlLQmN3SWR6X2VFdWdwMExCclR4Q0xzRWJ5TjJGTUdMMGI4Z1FRR0xJYnQxZUdTS1lmZ19jQdIBxAFBVV95cUxOTU41eGRkUTNnRlAtSjdFMzJnc210aWFRblhkbjJ2REtHVU1pWUVVc1Q1ME5hRDRaOG83QUFNdkNUOTRzQjFYNTRmSnNjRmNfMHFfZEhhbURQaUZfQURSeExqSGY3TnE2VVBxTGpMT19Ud0ppOFloUHQyMlRZbUxRWjdpMTRNU0h5UkdwN05LWWRuclBGUG9HdDZvTEhLUzJScUxVRHE4bDEyemdwY01KSkt1SHF2TmZuaTRmbGx3TDNucGJC?oc=5",
       "published": "2026-11-10T07:15:00+00:00",
       "summary": "Elektrik faturasında yüzde 15 indirim tuzağı! İmza atan daha fazla ödeyebilir...    Bursada Bugün",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "b43632ea50d17da0",
+      "title": "Vatansever: COP31’de Türkiye İçin Beş Kritik Dosya Öne Çıkıyor - KLASS Magazin",
+      "category": "Veri Merkezleri",
+      "source": "KLASS Magazin",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWklRSVNLTGVQU3pKa2ZkWGVsTGJpNGNDZWY5VzVZMnh3TGVqME1lbWF3Z3IzMWtpMnVmZjZTR2RmU0JJM1dZZFB3WkxfS2hiYld5OEd1NHZzdnJoNmtRVE9SUXlfdVhqRXktazA4dnVoNmRNN245NHJ4Ym41alc1VzlJVjRxd3dVM042VHpPT05JYXc?oc=5",
+      "published": "2026-11-10T06:43:25+00:00",
+      "summary": "Vatansever: COP31’de Türkiye İçin Beş Kritik Dosya Öne Çıkıyor    KLASS Magazin",
       "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
@@ -708,6 +720,30 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUVhWNkEyWUE4eld0ZmZDQ0x6YVVOeG5vT3IxQkR0R1IzYzRwMTkxcDB6cGtZa2FaUy01Rk1TVmFHSFVRZm5QQVgwN0dIaHhlOXRVOFFOemxnYWJ0cmtqSmFQUlVXSmNXUk1nOXdIdU5Gbk9YUkVuYzMtRVRfVmo2TVU2b2tTT0hmUVE5NEQxUEI0Ymh3TkpWVXZsZmJWWmRGOVFyWHI4b283NHVDRC1IeVJfNWJjZTh2bEJoM3Z3?oc=5",
       "published": "2026-11-05T09:27:36+00:00",
       "summary": "Bakan Bayraktar Milli Enerji 2040 yol haritasını açıkladı: Türkiye'nin enerji hedefleri neler?    EHA Medya",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "44a07bb23e2fa9a8",
+      "title": "İnşaatlarda Yeni Dönem Başladı! Resmî Gazete'de Yayımlandı - Bugün Kocaeli Gazetesi",
+      "category": "Mevzuat",
+      "source": "Bugün Kocaeli Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHJIejFUdXA1dnhqcHpsWGZ0MDFhdEdObm9iNVVkcXdmVzJzTFE3bGt0aUVNQi1peHloemhVN1FZRlB2NFRsM2IwWHVpdUJ5anl1ejdQZFpQcXFFcDhSeWMxWWowYzVWS3NEczBtdHpWLThPUnVDTDZ5bTdoVlQwMFVCaEY3WnZFamNnVVQ3dUc1UQ?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "İnşaatlarda Yeni Dönem Başladı! Resmî Gazete'de Yayımlandı    Bugün Kocaeli Gazetesi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "95194265602a53c5",
+      "title": "Türkiye'nin 2040 enerji yol haritası açıklandı: İşte tüm detaylar - DonanımHaber",
+      "category": "Veri Merkezleri",
+      "source": "DonanımHaber",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVBsNXgzcHl6SjQwUXZqcl9nWEZ1aHFxUjNWQVlRTWZTbWNlU205dGRrTXBhSGRaZ2phTWxBcGlWSlVMMVVIcnAyZEoyRDN1d1NKeGJOc1ljb1lOVDBFd29qVWhfOE5fM1Nhcng2SGpOTENqblR6NjZ5bGpGeHBIOWtEa1ExQ1Z0dFpqMzFoYVkwc2xUVUFWRVY0dVFUSFdSSllV?oc=5",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "Türkiye'nin 2040 enerji yol haritası açıklandı: İşte tüm detaylar    DonanımHaber",
       "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
