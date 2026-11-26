@@ -1,8 +1,20 @@
 {
-  "last_checked": "2026-11-25T05:50:16.877235+00:00",
-  "new_items": 9,
+  "last_checked": "2026-11-26T05:50:13.355536+00:00",
+  "new_items": 10,
   "errors": [],
   "items": [
+    {
+      "id": "4c736ca64ac075db",
+      "title": "Nexent Capital, Kuantum Çağına Hazır Yapay Zekâ ve Enerji Varlıkları İçin Fon Başlattı - Unite.AI",
+      "category": "Veri Merkezleri",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUVl1QUZQRjk0YWxSeUJmY29tUmZvRTFycFZITjZ3M1lWYm9oTDJMakN2WlV0N3U0aGpvTW41MTczTTA3N1ZRQjl3VmlSYmIzcDBOVmhpb0g1dGhVeFpVZ3h3alpNbTEzMHBRU1N6d0draV9wUTg1LWpmTG1wWUc1WDNKX3BWbjNJMzBkNEpuV2JBdHhpLVNN?oc=5",
+      "published": "2026-11-25T14:41:04+00:00",
+      "summary": "Nexent Capital, Kuantum Çağına Hazır Yapay Zekâ ve Enerji Varlıkları İçin Fon Başlattı    Unite.AI",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
     {
       "id": "1d197c9e99952134",
       "title": "B.Grimm ve NTT, Tayland’da 400 MW’lık yapay zekâ veri merkezi fırsatını değerlendirmek için çalışıyor - Unite.AI",
@@ -40,6 +52,18 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTA4bzhSdjRXV2I2R1U0NUJ0TEp4LU14ajZBelAtcnVIQXFldnM5cWlDb3pkX2hUUnRxVExxUGNkRFItUlFoYl8yTUIzdmx3VDRwampicUFHZ2JXTm5GNl91Qlh3Y3Vmd1dLUlJESl9XY05iVDRYdmF2dEdNd2xFa3ZvV3k1aHF0TlVGVVR3UUotc3VJaGdqZ2VDR3E?oc=5",
       "published": "2026-11-24T07:51:21+00:00",
       "summary": "İhale Dergisi | İhale Haberleri | İhale Sonuçları | İhale Bülteni    Yatırımlar Dergisi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "e60b857a9a9b766c",
+      "title": "Resmî Gazete'de yayımlandı! 2026 yılı yeniden değerleme oranı belli oldu: İşte yeni oran - Genç Gazete",
+      "category": "Mevzuat",
+      "source": "Genç Gazete",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXR5ak1pNmFxRVRHcUI5NFNUc3U4ZWVQeXFlQm5heUxSZnpMMmhWajg5NjFiTjV0UVAyaUVCZmRxZEZSN3FleDlBdzQxRG8ySFhKWHRiS2V3ejNmX09sRExvcV9JOGhYVllqRkJPU0RUdTZpLWl6RDEwbjM3MkRnWG5qaE8yTkhvb1BoTE50VERlakVERWZLeVMwU0tZV2tOc1ZpY0JkbVNYSVdUb3hzVExn?oc=5",
+      "published": "2026-11-23T21:15:00+00:00",
+      "summary": "Resmî Gazete'de yayımlandı! 2026 yılı yeniden değerleme oranı belli oldu: İşte yeni oran    Genç Gazete",
       "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
@@ -93,6 +117,47 @@
       "verified": false
     },
     {
+      "id": "ace62da06455a1b9",
+      "title": "Trump, Yurt Dışında Veri Merkezi Kuran ABD Şirketlerine Vergi Uygulayacak - ÇözümPark",
+      "category": "Veri Merkezleri",
+      "source": "ÇözümPark",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHR1aFpYTW5yOFhRMnBZZEJZdVdpNFc4dlNaNHFNUlFfQUpsYzBoVVo5QlpTZzZZaWp5Zm51Nk1yNjB0U2MxLUFubEQ3d2FRbVVBc3J4OHlrOHJYS2dRcVZhaGlhNUVYMWQ0RGtxUzM1Ql91bzdJYmFnckRRUVdWRUtzU3FnQmJoWElBUWZJRlZyYVV6OVZ5TEdyUUtpd2pD?oc=5",
+      "published": "2026-11-21T11:01:35+00:00",
+      "summary": "Trump, Yurt Dışında Veri Merkezi Kuran ABD Şirketlerine Vergi Uygulayacak    ÇözümPark",
+      "products": [
+        {
+          "name": "Veri merkezi çözümleri",
+          "action": "Veri merkezi altyapı çözümleri için hedef kitle bilgilendirmesi değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "d4b457faf0b49c1c",
+      "title": "Türkiye’de Elektrikli Araç Sayısı [Ekim-2026] - Enerji Ajansı",
+      "category": "Enerji",
+      "source": "Enerji Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0weDQybnNLRDRGRjZPWnhDYnZ3czRxMldKMFVOUmFPaDhteXFzVTVTaGdtX1BzZ0stLVV5ckVnSUFzY0U5V0tjMy0yY2VwMzBvcHo1cGxLV2lvSDl4WlNtUU9CeGFnVFl1d09SMFdR?oc=5",
+      "published": "2026-11-21T08:00:00+00:00",
+      "summary": "Türkiye’de Elektrikli Araç Sayısı [Ekim-2026]    Enerji Ajansı",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "4261739547ea8c35",
+      "title": "Türkiye’de Şarj İstasyonu Sayısı [Ekim-2026] - Enerji Ajansı",
+      "category": "Enerji",
+      "source": "Enerji Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sM0xRbXh5aTBjZXd2Wk1mejVsWnFFb0t5LWdGUm5jcWJzRnJxS0tpQUJpWUdpdm4yNWRLZXdzS3FwM2xhOFpzTW12WGlvaUlhaGdDQ2trQ0RUaGRwa2RPaFJSOFhmTGN5T1kxRw?oc=5",
+      "published": "2026-11-21T08:00:00+00:00",
+      "summary": "Türkiye’de Şarj İstasyonu Sayısı [Ekim-2026]    Enerji Ajansı",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
       "id": "268405be7d185efb",
       "title": "9 yıl sonra onay çıktı! Türkiye ile Pakistan arasında petrol ve LNG döneminin kapısı açıldı - Sanayi Gazetesi",
       "category": "Veri Merkezleri",
@@ -110,6 +175,23 @@
       "category": "Veri Merkezleri",
       "source": "Sanayi Gazetesi",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMlIwak1Nb1RPY3gtWlZyNS1fODdEZXlVLWYyOEVGTHIyejRqSlpqMEpTbXUtWXFGd0ZQcElfMnZQQzJCWlAybktSQkQtRWc0NGJXZG1kcGxyUWRvUmVMTUwxWWMzMzQ3cDR0a0FJYVRBc0RjRkd3a3VRQUZHVE00bktjdXM0OGtMbkVSOEpjS0lvNndnLVZJbzZUcE1vODRRYU9zbFdXZ3JMazQzNFpsd2s1NFd6NnNjSUczbDNIYzN4M0k?oc=5",
+      "published": "2026-11-21T05:35:32+00:00",
+      "summary": "Trump’tan teknoloji devlerine veri merkezi tehdidi! Yurt dışına yatırım yapana ağır vergi kapıda    Sanayi Gazetesi",
+      "products": [
+        {
+          "name": "Veri merkezi çözümleri",
+          "action": "Veri merkezi altyapı çözümleri için hedef kitle bilgilendirmesi değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "ae597d9627b3ff7c",
+      "title": "Trump’tan teknoloji devlerine veri merkezi tehdidi! Yurt dışına yatırım yapana ağır vergi kapıda - Sanayi Gazetesi",
+      "category": "Veri Merkezleri",
+      "source": "Sanayi Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFo0Ukx1U0pSa0xNRGF4WWZuYlhmM3NQV1dRU0FQRmZqRFh5dTdaUWJva3NvYTRtZUhtaFlSMFJkQkNNS2ZpLXVLZHl1QjI0YVNRSld5THBzaUZSY0toVlVJNThWQlVyUUt6amdGSWhLa01xcHRpaW9yQ2J1dWRabDZ5ZElxX1NrUzNPc1ZyWTNsWnJBYXl0M01TTFRjdmlPenVjbWktQjloMTR3bFVDdmpMZHZRc1VOaC1uTmN5M29kUQ?oc=5",
       "published": "2026-11-21T05:35:32+00:00",
       "summary": "Trump’tan teknoloji devlerine veri merkezi tehdidi! Yurt dışına yatırım yapana ağır vergi kapıda    Sanayi Gazetesi",
       "products": [
@@ -398,6 +480,18 @@
       "verified": false
     },
     {
+      "id": "8923defc2f6a9c4f",
+      "title": "Bakan Kacır: Yatırım Taahhütlü Avans Kredisi Programı'yla 85 projenin önünü açtık - Anadolu Ajansı",
+      "category": "Veri Merkezleri",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTm1JMmdwc0tqQVA0VXROMFFZZ0tJUEtzZTd5RG9IOUZxQnRqSVo4S2FBVHVCQnhuMkRqMUNQUEZ1dEd0akMzdW1BV2N5SVBlT0t3QmN1Ql9zLUYzVnFET2lNWC0wVkFGQnVkdkhNc1NrVERLNU5nVEtENXp3Zy1ESG9oWXcyNGhDZW9BcEVXcmQ3dUdvU082VEZqWEpURDlsN3RJZG1vUE1SS2hWTEw4QkVCVTdsYjFjNjdJ?oc=5",
+      "published": "2026-11-18T11:34:03+00:00",
+      "summary": "Bakan Kacır: Yatırım Taahhütlü Avans Kredisi Programı'yla 85 projenin önünü açtık    Anadolu Ajansı",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
       "id": "2bc5688805283328",
       "title": "Enerji Piyasalarında Dâhili Bilgilerin Açıklanmasına İlişkin Yeni Esaslar - Legal 500",
       "category": "Enerji",
@@ -507,6 +601,18 @@
           "action": "Veri merkezi altyapı çözümleri için hedef kitle bilgilendirmesi değerlendirilebilir."
         }
       ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "83451f9a33ac6744",
+      "title": "Enerjide yeni yarış takvimi - Para Dergi",
+      "category": "Veri Merkezleri",
+      "source": "Para Dergi",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkpLd09WYm9wX01RV3lrZTV6NWVHTWxoMDRiVFdYOHNHeXhucjVQUnBFXzlRX3owX29IMVlmN0xIbnVZOW5rSDJfZFFhdVpMaU4xQXBZZGU2WUZ6bm8yTDkzcG9JbzJCN2pudG9Uem9ZRi00M3RGYllnYmR1cmFuSUtEWWpOZDYxcFRtTNIBkgFBVV95cUxOanM0VUY5OFFuc2tONHVjVjJ0U2FsbWZWckRYdGxDR0E0eW5NUGhWS2tzcUVCUkIxUGJGYWtaZFFLMGZ3RkppWVlTZFBHZ2F4MG5XSXlKa0FudkR6ZkNnVDlVYkxCQ3ZSbUJnR2NlQVVYOGZPWlNUWFFTdUZZQ3BraGJDR3ZSNi04VXBsZkhqQWVwQQ?oc=5",
+      "published": "2026-11-16T21:01:02+00:00",
+      "summary": "Enerjide yeni yarış takvimi    Para Dergi",
+      "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
     },
@@ -639,6 +745,23 @@
       "published": "2026-11-14T10:10:00+00:00",
       "summary": "MEB Sınavlarda Yapay Zekâ Kullanımının Önünü Açtı    Adapazarı Akşam Haberleri Gazetesi",
       "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "9f3a7b2e5bef0a9c",
+      "title": "Doç. Dr. Ali Oğuz Diriöz | Hindistan, Körfez'in yerini alarak dünyanın veri merkezi üssü olabilir mi? - Independent Türkçe",
+      "category": "Veri Merkezleri",
+      "source": "Independent Türkçe",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxeWRTZklqclFQRW5Belo4T0dqSnBBUXRrbS02YUFUVHZ0QnF1ZDVzbkJjZ2JpYm9MYW5idmZhUTdEdHpockhSN1pMNWU?oc=5",
+      "published": "2026-11-14T08:00:00+00:00",
+      "summary": "Doç. Dr. Ali Oğuz Diriöz | Hindistan, Körfez'in yerini alarak dünyanın veri merkezi üssü olabilir mi?    Independent Türkçe",
+      "products": [
+        {
+          "name": "Veri merkezi çözümleri",
+          "action": "Veri merkezi altyapı çözümleri için hedef kitle bilgilendirmesi değerlendirilebilir."
+        }
+      ],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
     },
@@ -794,6 +917,18 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeElNWkk2ZmtvbFRncWY2VWUwNTNoekR0UXl5SWo3Q2lXeUlLVUIxTnF1YkI1eVE2S3ZjdEtUSmtyaFljQkVwRHM1a3pXMFdVdEs0SHpZOThJMGE1WEJYSjNhU2VvSHlrRXc3cFBkMGFhcGlHakhxdldpTXdLM1YxWXI1Y2hRQmNKRm8yNFhIM0h1RXNLd24walp1UzlFUE1iOHBuNUNMVkFRS3hNdkE?oc=5",
       "published": "2026-11-12T08:00:00+00:00",
       "summary": "Gelecek nesillere daha yaşanabilir bir dünya kuralım    Milliyet",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "0422d16e7636a2f0",
+      "title": "Küresel elektrifikasyon hedefi yılda 5 trilyon dolar yatırım gerektiriyor - Anadolu Ajansı",
+      "category": "Veri Merkezleri",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3o4OS1kdWk4X1lkYW9VTURBZlV0aFhjQkNGNVBETW9YcGJGWV9nMTNhOEVKcnM1dTdiVjQ0OUg3VGJSbUc1c1R2UWJ4eVlqaVdna3BMWm5RdFJjSnNQUUZLOWJSZWF4VnpXbXQ4NU1IRURuV0hHZ0tLWE1pdXd1bkRQMHRYUDk0aDlPSV9IdWtCa0hFT3VKU0lRaGljNkdrQUVrNFdILUU1YWo1Z1lTeG9yeDM?oc=5",
+      "published": "2026-11-12T08:00:00+00:00",
+      "summary": "Küresel elektrifikasyon hedefi yılda 5 trilyon dolar yatırım gerektiriyor    Anadolu Ajansı",
       "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
