@@ -1,8 +1,252 @@
 {
-  "last_checked": "2026-11-27T05:52:56.472550+00:00",
-  "new_items": 8,
+  "last_checked": "2026-11-28T05:48:22.185009+00:00",
+  "new_items": 19,
   "errors": [],
   "items": [
+    {
+      "id": "003a053c1ee8e89a",
+      "title": "Elektrikli araç şarjında yeni dönem: Yasaklar başladı - İnternet Haber",
+      "category": "Mevzuat",
+      "source": "İnternet Haber",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcS05TF9yX3FzRl9qSVJEY2FHMUJRX1RrbHZYay1mV1NBbmREV0FwazJrZEt0bDRxTm90TUwyazhFT2ZmODhsZ3Ryd1hncE5BUk9KN1FMY1MyTC1HN0V1SkJRMXhpcVVUbTQtV04zX1JTZ3FMNHM2ZXBzQ2pXbmNFSGdRcTVBblRuSENiY09ra2ZoTDA3cmpBeXlUWQ?oc=5",
+      "published": "2026-11-27T21:54:00+00:00",
+      "summary": "Elektrikli araç şarjında yeni dönem: Yasaklar başladı    İnternet Haber",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "e7614dcc4df9c1d0",
+      "title": "Elektrikli araç sahiplerine kötü haber. Resmen yasaklandı. Son tarih açıklandı - Nefes Gazetesi",
+      "category": "Mevzuat",
+      "source": "Nefes Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnRVNGFGQlN3aTh2blBhdmhSQVV4NFRiODIyUlBWVVRIYzJlU2ppeXdpUFRORmlGeC1kLWROUUs3VUh5Ni1vVEktWUd0MjhMT2w3S2k0Nk1kV2JBRmtmQ05CQVpoaUw3bC1uSVl4cDRCbDcyc2p3NDliQ3d5T2trTE1qQUpSMFRnWEowdWRNNDZqMDkxUlB5ZWxrX1U0Rktta2ZXNUk3QXJQRW0y?oc=5",
+      "published": "2026-11-27T18:21:15+00:00",
+      "summary": "Elektrikli araç sahiplerine kötü haber. Resmen yasaklandı. Son tarih açıklandı    Nefes Gazetesi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "cfaddb22f8524630",
+      "title": "Resmi Gazete'de yayımlandı: Bina Yangın Yönetmeliği yeniden düzenlendi - 24 Saat Gazetesi",
+      "category": "Mevzuat",
+      "source": "24 Saat Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQby1BRFNIelltTWNjU2lRbGZGWlhWc0ZPckR4ZTliUzUwUEhOaGRrX3c2dlJ6X0xkRjhGLTB4NUFDVFdjb0hlYVU5ZDN4RldHaDJiLXA2YmZtbFY3ZUZJbVJLbUlHZTZ3VTdrTXdfZ3pYZmU5TVZRc3ZmaUd6cmdCdVRmemJNNmQwQkJDTF92dXJJNHA2b1IwU2ZFNEZmOFhX?oc=5",
+      "published": "2026-11-27T14:14:00+00:00",
+      "summary": "Resmi Gazete'de yayımlandı: Bina Yangın Yönetmeliği yeniden düzenlendi    24 Saat Gazetesi",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "1d15def23a5234dd",
+      "title": "Bina Yangın Yönetmeliği'ndeki değişiklikler Resmi Gazete'de yayımlandı - Zafer Gazetesi",
+      "category": "Mevzuat",
+      "source": "Zafer Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaU5LWWN0blZ4NTgzNUFLVllrX19wQU9WVG1wRHk4bFQwNzZ6bGZjcU9pUE0yR3paSWM1Tl9USkhhZkk2d0l0RW93NjZWZ1RiZkdqX0VFVmJ5cHFib2xkT2h2dS1CUUlnOXF2eUpuM1FLOTYwcV9yLVZhX0x0dTN2T0E0VWxZRGlWODFfQzVhVnNWM2lDcXdlc0Fn?oc=5",
+      "published": "2026-11-27T14:10:00+00:00",
+      "summary": "Bina Yangın Yönetmeliği'ndeki değişiklikler Resmi Gazete'de yayımlandı    Zafer Gazetesi",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "b5e71c98f6f5177f",
+      "title": "Apartmanda elektrikli araç şarjına yeni kurallar: Ev tipi priz dönemi kapanıyor - DonanımHaber",
+      "category": "Mevzuat",
+      "source": "DonanımHaber",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeXFyc1gtRlZTLV9hcTdfREF1S0VpNzV4ZzRjSHBhUklka0Q0RTBWR3REeW5qclEyZjVXWXlCV0V2VDJtR1NDYVdWekpHVlJxY3p4U0VWTUtYVzB0MVlGWkNUeXd1U1JhdlcwTDNXUFBOWFg5cFBhY2lLZUhPWXBTcGRKZ1BGNjVXb2kxWDhObU9WZm5HUEsxeGp2eVd6NUZY?oc=5",
+      "published": "2026-11-27T14:06:00+00:00",
+      "summary": "Apartmanda elektrikli araç şarjına yeni kurallar: Ev tipi priz dönemi kapanıyor    DonanımHaber",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "4928b0d1fcfea8b5",
+      "title": "Elektrikli araçların şarjında yeni dönem: Otoparklarda ev tipi prizler yasaklanacak - Yeniçağ Gazetesi",
+      "category": "Meslek Odaları",
+      "source": "Yeniçağ Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdEMxUUhNOW1GNHFpQjJBc1Z5S1FkVEdZSEdmYWh4UTNKOVhmc3ltTkpxVmZSRjNNSFJOekFmeFNabVg4WHBxelpSYkxNa3VteXRHVEJCREo0MXZlRkl6b3JJRmxVbmNoY3pNSTFIbjJjYjdNMl9jVFk4X0NmX19MLWZDSk0xOGh5STdfNm1xVjFaWGhsZTNrUV9IQ3JFRmRhNmZRMGdCQTRhUFF2T3Rjb1h4a2cyaGFiX1JiU1NKc1RtMzF1T2c?oc=5",
+      "published": "2026-11-27T13:49:36+00:00",
+      "summary": "Elektrikli araçların şarjında yeni dönem: Otoparklarda ev tipi prizler yasaklanacak    Yeniçağ Gazetesi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "e6b4549b73c26359",
+      "title": "Mersin’den ‘kaçak jeneratör’ cezalarına itiraz - Mersin Haberci Gazetesi",
+      "category": "Meslek Odaları",
+      "source": "Mersin Haberci Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVFRVc2t0MEdJaVctQ2pQV3hqMjFoY2V3SnBzeGlTOS14S0MwUkFNZ1JaZUItUVIxYlNhOXpyb3BfbW95UnV2WWVVY3lVcnd5bUhtSUFoRnBiOGJzVmktUDFrd2tfYUZaX3pqNE1GXzV0YVAwLWRyM01rWmJ0aXlLV1ZMZU9TVzhfMkotcjBBOXJBXzVV?oc=5",
+      "published": "2026-11-27T13:02:00+00:00",
+      "summary": "Mersin’den ‘kaçak jeneratör’ cezalarına itiraz    Mersin Haberci Gazetesi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "fe5cc2ea0614e5b4",
+      "title": "Yangın yönetmeliği değişti: Konut, otopark ve iş yerlerine yeni kurallar - Kamu Son Dakika Haberleri",
+      "category": "Mevzuat",
+      "source": "Kamu Son Dakika Haberleri",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOENxbHoxVVloVU1ja1o4aXpaSlhYR1NqVjA4TzhtZ2dyVlRFbDRMdWhjUzkxVll1TnpDanEyZUFFT1RHek1iU1hrRDlTU3hWbkc1QVV2SUJBbS1SZTlqa09PRWtxWjIzbG5fWkpRT0ZFaDUweC03OHdLajZqbmpaMFZfMEQtYTM4Y1dBQjg2ZkxlREkxeTR4eEJNajVReDFvMlgxRU0wV3dqenUwSFk0cg?oc=5",
+      "published": "2026-11-27T12:26:28+00:00",
+      "summary": "Yangın yönetmeliği değişti: Konut, otopark ve iş yerlerine yeni kurallar    Kamu Son Dakika Haberleri",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "c18e33ff0cdbe3c3",
+      "title": "Elektrikli Araçları Evden Şarj Etmek Yasak Mı? İşte Yeni Yönetmelik - Sektörüm Dergisi",
+      "category": "Mevzuat",
+      "source": "Sektörüm Dergisi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeE1tT2tBaHJsMUt0OUhrTlNhQk55c2V1OVJyYmlBQkdYVnl3V0ZHZnBrQVhVSnB2QldmXzhzeE82Yms0aUZ2LW5zYUNBT1JVc09ERllpTzVUYU9LN0dKeDZoSUpESWVpMXNqeUZTM0Z1TzhKb3FyczVSLVlYaW54Z3ZJZEJaYWRPVUZrNHZJcnBMTExmWFRMQl9RN0JiakhL?oc=5",
+      "published": "2026-11-27T12:07:24+00:00",
+      "summary": "Elektrikli Araçları Evden Şarj Etmek Yasak Mı? İşte Yeni Yönetmelik    Sektörüm Dergisi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "358ce8f6d82ec466",
+      "title": "Yeni Bina Yangın yönetmeliği Resmi Gazete'nin 27 Aralık 2026 tarihli sayısında yayınlandı. Yönetmelik elektrikli araçların otoparklarda sarj edilmesi için de düzenlemeler içeriyor - Yeni Mesaj",
+      "category": "Mevzuat",
+      "source": "Yeni Mesaj",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRFc3a3NzcW1jMTU2Q3dJWlFwYUFYb1p4R19aWU1BcDVUcTlnY05uNi1TLWhZdXpmUUctdlgwTzBFV1l0SXVkN2EyNDV5NXdQS1hrdHVPLXdkQlFVbWYzMnJlYUVoUEE4ZTBhS2pnME1EMWloV1Nma19PNldrRTE4VkRoeno5ZE1tMnpUZUtlcEJzNHJGcl91ZjBWbGMyMzB5WTdfTHI5WS11bW0yVzBvR0hyeVR3MXpxUURycnA4ODExTzU5TnVONDk3MXlMR1pJOWpZMlRsQWZhTW1qN3dROURXUGNiZGpCeGRaa3NNT0xvSWR5UDhYd0NtQjY1bGM3ZGJMTTlvUEVXNjhGOFNmNUJiS0VkZEVRSW5oMGhpN2ZkZkdiOTRRbFRkUmtQZEFYMUh4WkhZdUJvYTctNjFXNQ?oc=5",
+      "published": "2026-11-27T11:00:00+00:00",
+      "summary": "Yeni Bina Yangın yönetmeliği Resmi Gazete'nin 27 Aralık 2026 tarihli sayısında yayınlandı. Yönetmelik elektrikli araçların otoparklarda sarj edilmesi için de düzenlemeler içeriyor    Yeni Mesaj",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "75dc150ecfd63483",
+      "title": "Yangın önlemleri artık zorunlu olacak! - Antalya Ekspres",
+      "category": "Mevzuat",
+      "source": "Antalya Ekspres",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1enJKbnFialdJQVlVRVlGZ3VzQUtTdlJVM1VLWmJFSmhhdjJaZi1BVURNSHBKRHF6MENOaWVOMXRmeFRxcVZkbUZxLTVqbGlXQ2pZTmc3a3dGMXRlSGxpNTNDS0xYaFhXVlBiTGFiVTdzOWxTQ1FqelM5Yw?oc=5",
+      "published": "2026-11-27T10:55:00+00:00",
+      "summary": "Yangın önlemleri artık zorunlu olacak!    Antalya Ekspres",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "347c2a85aa76ee70",
+      "title": "Yeni Bina Yangın Yönetmeliği: Otopark Şarjı ve 112 Alarm Kuralları - Adapazarı Akşam Haberleri Gazetesi",
+      "category": "Mevzuat",
+      "source": "Adapazarı Akşam Haberleri Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3gxLWFhOXd3RjQ4dlF0ZUNua2JOZ2pxaFdSZlMzOVZNM0RjLXRJelpQbEdLMllJbFRaRmI5QV9nMjVZakY0SkdMMWRXSHZUelB3Ni04aHV2eXlRcEVSOGp0QXd5RXVVNVdiWS1zSU5iRDc5SGp0bl85MXJlcTJ0MXJOek81dm1OOFhoSzhhMVpKaXhxXzNQU1h5QjRsUzM0c1c0WF930gGrAUFVX3lxTE41Ri00YUc3UmpZeV9xZ2Fqa3VNUlNDeV9UTHhsQVJBYUxtZm1sTzk2c0NNVDlfLXdGZzZ6eFBQSFhScTZUY21xeTRQU2QxS01SZ0xyY3RCNmNWMVJZLU03Q19xQXpMcGdiNGxBbEFLZTQzVE1OWDg1M3lEU3lxQXJfTUc0ZG43X1hFRUtDcDg4dmhydXllZzh6T2phSUwzQnRaLThiVTY1bmJQYw?oc=5",
+      "published": "2026-11-27T10:52:00+00:00",
+      "summary": "Yeni Bina Yangın Yönetmeliği: Otopark Şarjı ve 112 Alarm Kuralları    Adapazarı Akşam Haberleri Gazetesi",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "3c6488c8d8a444b5",
+      "title": "Yeni Bina Yangın Yönetmeliği Resmî Gazete’de Yayımlandı - Pervasız Gazetesi",
+      "category": "Mevzuat",
+      "source": "Pervasız Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTEt4TUp1R3ZkRFZMZm9jUHU1eXltQi1hOEFEa0MzaFpUUFVzQzBuZEw4QkpwckpocHVldlZQMUdNeWZLTlhlWG9pdldoZG9udkwxNzVnelk3YUtFNmRza2ZzaFozdG1TTExjZ3NLOTNnYm1ZUEJtSEpDRE1wVlI5aFhMbThtcHNTcVE?oc=5",
+      "published": "2026-11-27T08:46:00+00:00",
+      "summary": "Yeni Bina Yangın Yönetmeliği Resmî Gazete’de Yayımlandı    Pervasız Gazetesi",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "c3d1ff560de46277",
+      "title": "Yangın yönetmeliği değişti! Ev, iş yeri ve otoparklarda yeni dönem başlıyor - İLKHABER-Gazetesi",
+      "category": "Mevzuat",
+      "source": "İLKHABER-Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkxJZXhEdHNlZjRLX3FvNGlXaTY3ZTFxYUE4b184bE41VmhTbGMtWDFXTDRvT2N1Z21keGh3bmJER3lfZGtJRUZ4MWNWUVNpcWFzcHBvTnRNTjhxakpLYlAwdm84TXYzNkcwaXJNbTFaMVlicVFSRG0yMXd0UXBxYVJUeF90MERqNDdzcUMxVlB4V3VSbk5WWlA4dVFIS1NIRWRqV0VSbnJpb254emFFTk5xRzBIVmpZNVhFNw?oc=5",
+      "published": "2026-11-27T07:24:51+00:00",
+      "summary": "Yangın yönetmeliği değişti! Ev, iş yeri ve otoparklarda yeni dönem başlıyor    İLKHABER-Gazetesi",
+      "products": [
+        {
+          "name": "AFDD / DX³ Stop Arc",
+          "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
+        }
+      ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "e07631f594da1450",
+      "title": "Elektrikli Araç Sahiplerine Yeni Kural: Ev Priziyle Şarj Yasak - Haberizma",
+      "category": "Mevzuat",
+      "source": "Haberizma",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVmtyVWRhWVlDdHJISW8wdk5XeXNJTXliMDBmLXNIODhJeUpOZlBETlFKclhVVXBtWHFhcDdCZ2tmakppdW5Nd3FQTGd4M3pSZS1iVWZudmZTMERJWVdDWnl3V0E4UEREMHBBdmVfRm9xTXRHUTdGZTZpSEhLWHlFUmVpczRMemNlcGtPWGx3V29aQQ?oc=5",
+      "published": "2026-11-27T07:15:01+00:00",
+      "summary": "Elektrikli Araç Sahiplerine Yeni Kural: Ev Priziyle Şarj Yasak    Haberizma",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "abca1e12816bde91",
+      "title": "Resmi Gazete'de yayımlandı: LPG'li araçlar AVM otoparklarına bu şartlarla girebilecek - Yayla Haber",
+      "category": "Mevzuat",
+      "source": "Yayla Haber",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGZPbC1Cc1NwYjZXOE1LSjk0cy1BVkpMYm0wdndMMTZrYVZXTTJTWjN3SXhhOF9fbVBYSjBiN0VLNnY5ZVhjUk5rNlpoZUdySDVaSkl1UHI3bWcxbkpTeUVlXzJWSUQ3SjJnN0JYY2tDSzV2VG1odmsxOHhUV3Z1eURfejFMTjExM3hYbXRRSDlod181ZXdEZFM4bUJqRGt4LTgtb0JZdHctWVpscXhycHJB?oc=5",
+      "published": "2026-11-27T07:15:00+00:00",
+      "summary": "Resmi Gazete'de yayımlandı: LPG'li araçlar AVM otoparklarına bu şartlarla girebilecek    Yayla Haber",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "1f499ce243acb01f",
+      "title": "Otoparklardaki şarj istasyonlarının tümü değişecek. 2 yıl süre verildi - NTV Haber",
+      "category": "Mevzuat",
+      "source": "NTV Haber",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2ExMnZPNGdjWENxOS1lc1EwUGRoelNWTnh2RjBVdDlLajNDMVEtdGNxc1F5dW1GTUZWM3dublZ4WVFsY29DQ1h1TWFBaWFrMnN4RjJCTEZndHJmSTY4NFlEYWo4OFowOEtmdFgwNkFWQlVISVdTUUxSOTFGd0djQmIwRzRSTUxLT3ZvQnJVU09DVlJxTV93T2J2YTBVRHpRNnc0S0lXbE1uX3lL0gGyAUFVX3lxTE1WeE5hRWRZbEVRdUc3M0ZoQ2RLOEd0VEtpYWh2YXRKOGg3aVZCSmZ3YWxWZ0xWaEZpdmJQTVVFNVd1LTJWYWV1U3ppWWYweWNmNGl3dFN5S1BVb2swSWxaaWpSNEVXSmtSOUM0MC1qZEpaMm9MQlI3UGdpd09MMHVadHBPUGRVYUYzOW9mU3B6UVFFUEktQUhwN2FFRjJQTGVRM1AxakR0emFWZDg3TVVPMmc?oc=5",
+      "published": "2026-11-27T06:45:51+00:00",
+      "summary": "Otoparklardaki şarj istasyonlarının tümü değişecek. 2 yıl süre verildi    NTV Haber",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
     {
       "id": "f5f41de87399a906",
       "title": "LPG'li Araçların AVM Otoparklarına Girişi İçin Aranan Şartlar Yeni Yönetmelikte Yer Aldı - Onedio",
@@ -40,6 +284,18 @@
       "verified": false
     },
     {
+      "id": "8c87ef69753a8342",
+      "title": "AVM otoparkına LPG'li araçlar girebilecek: İşte şartlar... - Sözcü Gazetesi",
+      "category": "Mevzuat",
+      "source": "Sözcü Gazetesi",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2w3dnF6SWVzWVl3TG5HQ3NEcW1ITlluV0hTYmxIaXZjb3hETENhcWJBTnhCM2xFYUZlRDVBS2E2Qm15dlRoc0phTmJyX3dmX1A3eVdJeTZ6MXRFdl8yS2JScjB5YjVLZlJkZVpZZVJ0clFZNjM0RkZ6VzF2WlFDOURqbUxnd1dqZHVvVHItci12TjNMZ2c?oc=5",
+      "published": "2026-11-27T05:26:00+00:00",
+      "summary": "AVM otoparkına LPG'li araçlar girebilecek: İşte şartlar...    Sözcü Gazetesi",
+      "products": [],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
       "id": "e7fe3fd79dd32bdf",
       "title": "Yangın yönetmeliği değişti: Konut, otopark ve iş yerlerine yeni kurallar - BirGün Gazetesi",
       "category": "Mevzuat",
@@ -53,6 +309,18 @@
           "action": "Elektriksel yangın güvenliği üzerine teknik eğitim hazırlanması değerlendirilebilir."
         }
       ],
+      "status": "Sektörel haber / otomatik kayıt",
+      "verified": false
+    },
+    {
+      "id": "a41a020d032bd6a2",
+      "title": "Sinan TAVUKCU - Mekke Savunma İttifakı: ABD ve Çin Arasında Üçüncü Bir Jeoekonomik Güç Merkezi Mümkün mü? - Stratejik Düşünce Enstitüsü",
+      "category": "Veri Merkezleri",
+      "source": "Stratejik Düşünce Enstitüsü",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0RNUmF3ZHI4UVNoSlJkZ2o3Z2lnUldPbnUtRzVUVFFUbDdtUEZPbE5zd1FiMkttTGJTckNuZFFnN2xTZ1RFcFV0YXJkVTN3MHlrUDNSeGZZSjJ0d1V4SGJBeXh0dEo1dkwzRmViRy05TWhSaFRxOHh1d3RPZTdaeXloZEJvZnBCTDJLZy1UWTVSLVJ0TkRScmtROTdSVXlrMjZHd1lwbTV3ZEJBYVQwdVJYS3gwRlFLbTRMc29BSDVCalJjalBmN1pUeWpWVnY1X2t0UWVQWGNsWFhzWDZLTFpR?oc=5",
+      "published": "2026-11-26T17:00:05+00:00",
+      "summary": "Sinan TAVUKCU - Mekke Savunma İttifakı: ABD ve Çin Arasında Üçüncü Bir Jeoekonomik Güç Merkezi Mümkün mü?    Stratejik Düşünce Enstitüsü",
+      "products": [],
       "status": "Sektörel haber / otomatik kayıt",
       "verified": false
     },
